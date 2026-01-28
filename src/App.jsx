@@ -2,7 +2,7 @@ import { Routes, Route, Navigate } from "react-router-dom";
 
 import Login from "./pages/Login";
 import Register from "./pages/Register";
-import Otp from "./pages/Otp";
+import Otp from "./pages/OTP";
 import Home from "./pages/Home";
 import History from "./pages/History";
 import Blockchain from "./pages/BlockChain";
