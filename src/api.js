@@ -1,7 +1,7 @@
 import axios from "axios";
 
 const api = axios.create({
-  baseURL: " https://crypto-currency-wallet.onrender.com",
+  baseURL: "https://crypto-currency-wallet.onrender.com",
 });
 
 api.interceptors.request.use((config) => {
